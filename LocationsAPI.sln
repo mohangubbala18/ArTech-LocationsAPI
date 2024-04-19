@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocationsAPI", "LocationsAPI\LocationsAPI.csproj", "{384EE2CA-3931-4D39-B1C9-369461CCCB7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationsAPI.Tests", "LocationsAPI.Tests\LocationsAPI.Tests.csproj", "{DBE999B7-206D-4FBF-A3FB-54D2A314D968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{384EE2CA-3931-4D39-B1C9-369461CCCB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384EE2CA-3931-4D39-B1C9-369461CCCB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384EE2CA-3931-4D39-B1C9-369461CCCB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384EE2CA-3931-4D39-B1C9-369461CCCB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE999B7-206D-4FBF-A3FB-54D2A314D968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE999B7-206D-4FBF-A3FB-54D2A314D968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE999B7-206D-4FBF-A3FB-54D2A314D968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE999B7-206D-4FBF-A3FB-54D2A314D968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F71CEEB7-53C5-4AAE-BABF-0344987FB8DA}
+	EndGlobalSection
+EndGlobal
